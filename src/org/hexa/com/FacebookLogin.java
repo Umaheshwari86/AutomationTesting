@@ -52,7 +52,7 @@ public class FacebookLogin {
 /*Locater by.id-------------------
 		WebElement username = driver.findElement(By.id("email"));
 		username.sendKeys("umaheshwari@gmail.com");
-		WebElement password = driver.findElement(By.id("pass"));
+		WebElement password = driver.findElement(By.id("pass"))
 		password.sendKeys("123445");
 		driver.findElement(By.id("u_0_3")).click();
 */
